@@ -1,8 +1,8 @@
 def convert_to_text(output):
-    psma_string = "Bevorzugt PSMA-PET-CT. Alternativ Ganzkörperknochenszintigraphie und CT-Abdomen und Becken. "
-    ct_scintigraphy_string = "Ganzkörperknochenszintigraphie und CT-Abdomen und Becken."
-    as_string = "Der Patient erfüllt die Kriterien für eine aktive Überwachung. Falls eine definitive Therapie erwünscht ist, Angebot einer radikalen Prostatektomie oder alternativ perkutane Strahlentherapie."
-    rp_rt_string = "Indikation zur radikalen Prostatektomie. Alternativ perkutane Strahlentherapie."
+    psma_string = 'Bevorzugt PSMA-PET-CT. Alternativ Ganzkörperknochenszintigraphie und CT-Abdomen und Becken. '
+    ct_scintigraphy_string = 'Ganzkörperknochenszintigraphie und CT-Abdomen und Becken. '
+    as_string = 'Der Patient erfüllt die Kriterien für eine aktive Überwachung. Falls eine definitive Therapie erwünscht ist, Angebot einer radikalen Prostatektomie oder alternativ perkutane Strahlentherapie.'
+    rp_rt_string = 'Indikation zur radikalen Prostatektomie. Alternativ perkutane Strahlentherapie.'
     
     output_string = ""
     
